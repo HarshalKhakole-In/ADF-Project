@@ -1,0 +1,15 @@
+{
+	"name": "harshalpractice",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a7297642-6753-4521-9f6e-0b2ad02fc556",
+		"tenantId": "2597d6a2-d7bf-42f9-8dc0-f38c0a59fe17"
+	}
+}
