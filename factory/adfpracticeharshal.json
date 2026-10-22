@@ -1,0 +1,15 @@
+{
+	"name": "adfpracticeharshal",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "indiasouthcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "63ee73a7-41ef-490b-8dcd-c2157d679b3b",
+		"tenantId": "2597d6a2-d7bf-42f9-8dc0-f38c0a59fe17"
+	}
+}
